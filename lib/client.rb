@@ -77,6 +77,3 @@ class SamplParty
     SamplParty.get("/stop")
   end
 end
-
-binding.pry
-
